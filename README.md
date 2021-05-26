@@ -1,7 +1,7 @@
 # OpenCV
-
-1)How to read,write and show IMAGES \n
-2)Destroy windows with particular character
+<ul>
+  <li>1)How to read,write and show IMAGES</li> 
+<li>2)Destroy windows with particular character</li>
 3)Read and Show Images from Camera
 4)Store the Captured video in mp4 file
 5)Display the Width and Height of the video Frame - Setting the camera Parameter
@@ -16,3 +16,4 @@
 14)Simple Image Threshold
 15)Adaptive Threshold
 16)Matplotlib with openCV
+</ul>
